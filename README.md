@@ -20,7 +20,7 @@
 - Supports ulimited renaming at a time.
 - Auto delete 
 - Fully modified repo
-- Deploy To Koyeb + Heroku + Railway.
+- Deploy To Koyeb + Heroku + Render
 - [Developer support](https://telegram.me/TechifySupport) 24x7
 </details>
 
@@ -55,7 +55,6 @@ see_caption - see your custom caption.
 del_caption - delete custom caption.
 metadata - To change your metadata
 ping - To check bot ping.
-donate - To support developer.
 set_prefix - Set Your Prefix
 see_prefix - See Your Prefix
 del_prefix - Delete Your Prefix
@@ -72,14 +71,11 @@ status - Check bot status [FOR ADMINS USE ONLY].
 
 <details><summary>Tap On Me For Credit</summary>
 
-💝 [TechifyBots](https://github.com/TechifyBots)
-
-💘 [JishuDeveloper](https://github.com/JishuDeveloper)
-</details>
+🔥 [Ravi Kumar](https://t.me/Unknown_RK01)
 
 ### 💕 CONTACT DEVELOPER
 
-- [Rahul](https://telegram.me/TechifyRahul)
+- [UTKARSH 🇮🇳](https://telegram.me/Trashxrd)
 
 ### ☕ BUY ME A COFFEE
 - [PayPal](https://paypal.me/TechifyBots)
